@@ -7,7 +7,8 @@ use yii\widgets\ActiveForm;
 /* @var $model app\models\Usuario */
 /* @var $form yii\widgets\ActiveForm */
 ?>
-
+<h1>hola</h1>
+<h1>esto debe estar en mi segundo commit</h1>
 <div class="usuario-form">
 
     <?php $form = ActiveForm::begin(); ?>
