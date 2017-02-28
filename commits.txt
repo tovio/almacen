@@ -1,0 +1,11 @@
+commit 9e568e85ad6743e93eab17dac0b314aa44670b79
+Author: canaimita <=octaviodgs2@gmail.com>
+Date:   Mon Feb 27 08:27:14 2017 -0400
+
+    añadi vendor
+
+commit 4d22cb0234d00732bb32e140f2080ff02fd62ab5
+Author: canaimita <=octaviodgs2@gmail.com>
+Date:   Sun Feb 26 22:32:51 2017 -0400
+
+    mi primer commit
